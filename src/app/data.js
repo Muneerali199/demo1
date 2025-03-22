@@ -25,10 +25,10 @@ export const projectsData = [{
     },
     {
         id: 2,
-        name: "ArtGallery Online",
-        description: "Digital art showcase platform",
-        date: "2022-06-20",
-        demoLink: "https://artgalleryonline.example.com",
+        name: "DocAI",
+        description: "symptoms tracker ",
+        date: "2025-03-20",
+        demoLink: "https://www.github.com/Muneerali199/DocAI",
     },
     {
         id: 3,
